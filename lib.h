@@ -1,5 +1,5 @@
-#ifndef UNTITLED10_LIB_H
-#define UNTITLED10_LIB_H
+#ifndef MAIN_CPP_LIB_H
+#define MAIN_CPP_LIB_H
 
-#endif 
+#endif //MAIN_CPP_LIB_H
 bool funzione (char carattereinserito);
